@@ -9,6 +9,6 @@ def triangulo():
         print("O valor do terceiro ângulo é de", triangle)
     except ValueError:
         print("Digite apenas valores inteiros!")
-
+        print("Jonathan")
 
 triangulo()
